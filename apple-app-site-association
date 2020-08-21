@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "CM2HW44Y3V.com.wovenmoney.wovenapp",
-				"paths": [ "*"]
+				"paths": [ "/register*"]
 			}
 		]
 	}
